@@ -186,7 +186,7 @@ https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 #EXTINF:-1   tvg-id="CANAL CATORCE.mx" tvg-logo="https://www.canalcatorce.tv/descargas/logo_descargas.jpg" group-title="🇲🇽Canales Comunes Mx➡️",14
 https://d2httio3gowh9r.cloudfront.net/canal14/canal14/playlist.m3u8
 #EXTINF:-1   tvg-id="CANAL CATORCE.mx" tvg-logo="https://www.canalcatorce.tv/descargas/logo_descargas.jpg" group-title="🇲🇽Canales Comunes Mx➡️",14
-https://d2httio3gowh9r.cloudfront.net/canal14/canal14/chunklist.m3u8
+https://mdstrm.com/live-stream-playlist/68ffcd91241bd0bf500ad7a3.m3u8
 #EXTINF:-1   tvg-id="CANAL CATORCE.mx" tvg-logo="https://www.canalcatorce.tv/descargas/logo_descargas.jpg" group-title="🇲🇽Canales Comunes Mx➡️",14
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.globalmedia.mx/assets/logos/san-luis.png" group-title="🇲🇽Canales Comunes Mx➡️",Globalmedia slp
@@ -196,9 +196,9 @@ https://videocast.mx:19360/globalmedia/480p.m3u8
 http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 #EXTINF:-1   tvg-id="CANAL CATORCE.mx" tvg-logo="https://www.canalcatorce.tv/descargas/logo_descargas.jpg" group-title="🇲🇽Canales Comunes Mx➡️",UNICABLE
 http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
-#EXTINF:-1   tvg-id="CANAL CATORCE.mx" tvg-logo="https://www.canalcatorce.tv/descargas/logo_descargas.jpg" group-title="🇲🇽Canales Comunes Mx➡️",UNIMAS
+#EXTINF:-1   tvg-id="CANAL CATORCE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_UniM%C3%A1s_2021.svg" group-title="🇲🇽Canales Comunes Mx➡️",UNIMAS
 https://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
-#EXTINF:-1   tvg-id="CANAL CATORCE.mx" tvg-logo="https://www.canalcatorce.tv/descargas/logo_descargas.jpg" group-title="🇲🇽Canales Comunes Mx➡️",TUDN
+#EXTINF:-1   tvg-id="CANAL CATORCE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TUDN_Logo.svg" group-title="🇲🇽Canales Comunes Mx➡️",TUDN
 http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
 
@@ -8629,7 +8629,7 @@ https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-491
 #EXTINF:-1 xui-id="9632" tvg-id="foxDeportes.us" tvg-name="US | Fox Deportes" tvg-logo="https://canvas-lb.tubitv.com/opts/OJg87rAukXkS1Q==/2cebdc46-9cb3-4f0d-9f98-ac7278c922d9/CHgQeDoFMS4xLjhAAQ==" group-title="Tubi📃📺➡️",FOX 
 https://aegis-cloudfront-1.tubi.video/cb1aab3f-2082-4ee1-a55e-25b817aefb14/playlist.m3u8
 #EXTINF:-1 xui-id="9632" tvg-id="foxDeportes.us" tvg-name="US | Fox Deportes" tvg-logo="https://canvas-lb.tubitv.com/opts/vUTmDiTIpkyPXw==/84f7b8d8-b91e-422c-a1d5-07e4bc70ea22/CHgQeDoFMS4xLjhAAQ==" group-title="Tubi📃📺➡️",FOX Deportes en tubi
-https://live-manifest.production-public.tubi.io/live/bedd6cce-fd00-49a6-adc5-e1234616fc71/playlist.m3u8
+https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8
 #EXTINF:-1 xui-id="9632" tvg-id="foxDeportes.us" tvg-name="US | Fox Deportes" tvg-logo="https://canvas-lb.tubitv.com/opts/tXBAD_BIz05PAA==/41418f98-2a7a-41b8-a87e-4ee2a95cb9a3/CHgQeDoFMS4xLjZAAQ==" group-title="Tubi📃📺➡️",FOX Deportes en tubi Mx
 https://live-manifest.production-public.tubi.io/live/3e871458-476d-4a37-9f88-78920782b9e2/playlist.m3u8
 #EXTINF:-1 xui-id="9632" tvg-id="foxDeportes.us" tvg-name="US | Fox Deportes" tvg-logo="https://canvas-lb.tubitv.com/opts/2olIVezIyH93AQ==/0ff5a10f-ff29-4e06-8fe7-eb3e64be293a/CNIHEMAEOgUxLjEuNw==" group-title="Tubi📃📺➡️",FOX en tu bi xtra
@@ -10043,9 +10043,9 @@ https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
 #EXTINF:-1 channel-id="6474a7958e3c0a0008b97cae-mx" tvg-id="6474a7958e3c0a0008b97cae" tvg-chno="305" tvg-name="Pluto TV Novelas de Mexico" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG.png" group-title="Pluto TV Mexico", Pluto TV Novelas de Mexico
 https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
-#EXTINF:-1 channel-id="6474a7958e3c0a0008b97cae-cl" tvg-id="6474a7958e3c0a0008b97cae" tvg-chno="305" tvg-name="Pluto TV Novelas de Mexico" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG.png" group-title="Chile", Pluto TV Novelas de Mexico
+#EXTINF:-1 channel-id="6474a7958e3c0a0008b97cae-cl" tvg-id="6474a7958e3c0a0008b97cae" tvg-chno="305" tvg-name="Pluto TV Novelas de Mexico" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG.png" group-title="Pluto TV Mexico", Pluto TV Novelas de Mexico
 https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
-#EXTINF:-1 channel-id="6474a7958e3c0a0008b97cae-ar" tvg-id="6474a7958e3c0a0008b97cae" tvg-chno="305" tvg-name="Pluto TV Novelas de Mexico" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG.png" group-title="Argentina", Pluto TV Novelas de Mexico
+#EXTINF:-1 channel-id="6474a7958e3c0a0008b97cae-ar" tvg-id="6474a7958e3c0a0008b97cae" tvg-chno="305" tvg-name="Pluto TV Novelas de Mexico" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG.png" group-title="Pluto TV Mexico", Pluto TV Novelas de Mexico
 https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
 #EXTINF:-1 channel-id="686eed4c677f2f98b4a1ccd4-mx" tvg-id="686eed4c677f2f98b4a1ccd4" tvg-chno="284" tvg-name="Pluto TV Novelas de Otros Continentes" tvg-logo="https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG_1757611358319.png" group-title="Pluto TV Mexico", Pluto TV Novelas de Otros Continentes
 https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
