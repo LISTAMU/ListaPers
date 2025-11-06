@@ -10141,6 +10141,14 @@ https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
 https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8
 
 
+#EXTINF:-1 group-title="dish prueba",Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6678b21d11148fc9604268ddbe008d72:8ba320049c30a2df809a90679c49b63d
+https://dish.akamaized.net/Content/DASH/Live/channel(nickjrhd)/variant.mpd
+#EXTINF:-1 group-title="dish prueba",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ec274831caa80e1ec173dbd5b0d5e83:cc5fb77171900013b60e4ef49da9f1ac
+https://dish.akamaized.net/Content/DASH/Live/channel(Nickelodeon)/variant.mpd
 #EXTINF:-1 group-title="dish prueba",dreamworkshd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6c7a488a73c9c780eaea5765ad29a00:08ffa90ee936cbacb10a59bb66aed57d
@@ -10164,4 +10172,9 @@ https://dish.akamaized.net/Content/HLS_MP4/Live/channel(universal_channel)/varia
 #KODIPROP:inputstream.adaptive.license_key=896f730715176bb90484f8385512cba7:edef8ba979d64acea3c827dcd51d21ed
 https://dish.akamaized.net/Content/DASH/Live/channel(sony)/variant.mpd
 
-edef8ba979d64acea3c827dcd51d21ed
+#EXTINF:-1 group-title="dish prueba",Animal Planet HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d159d22935a366a6989d352f231edad9:36caf348e0f7a4d4a6cdc577368387c2
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ANIMAL_PLANET_HD)/manifest.mpd
+
+
