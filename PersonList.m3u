@@ -10143,7 +10143,7 @@ https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8
 
 #EXTINF:-1 group-title="dish prueba",dreamworkshd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6c7a488a73c9c780eaea5765ad29a00:edef8ba979d64acea3c827dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key=e6c7a488a73c9c780eaea5765ad29a00:08ffa90ee936cbacb10a59bb66aed57d
 https://dish.akamaized.net/Content/DASH/Live/channel(dreamworkshd)/variant.mpd
 #EXTINF:-1 group-title="dish prueba",Azteca Uno HD
 https://dish.akamaized.net/Content/DASH/Live/channel(aztecaunohd)/variant.mpd
@@ -10161,5 +10161,4 @@ https://dish.akamaized.net/Content/HLS_MP4/Live/channel(mvshd)/variant.m3u8
 https://dish.akamaized.net/Content/HLS_MP4/Live/channel(universal_channel)/variant.m3u8
 #EXTINF:-1 group-title="dish prueba",Canal Sony
 https://dish.akamaized.net/Content/HLS_MP4/Live/channel(sony)/variant.m3u8
-
-08ffa90ee936cbacb10a59bb66aed57d
+edef8ba979d64acea3c827dcd51d21ed
