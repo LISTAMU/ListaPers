@@ -10160,5 +10160,7 @@ https://dish.akamaized.net/Content/HLS_MP4/Live/channel(mvshd)/variant.m3u8
 #EXTINF:-1 group-title="dish prueba",Universal Tv
 https://dish.akamaized.net/Content/HLS_MP4/Live/channel(universal_channel)/variant.m3u8
 #EXTINF:-1 group-title="dish prueba",Canal Sony
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=896f730715176bb90484-f8385512cba7:edef8ba979d64acea3c8-27dcd51d21ed
 https://dish.akamaized.net/Content/HLS_MP4/Live/channel(sony)/variant.m3u8
 edef8ba979d64acea3c827dcd51d21ed
