@@ -10162,6 +10162,6 @@ https://dish.akamaized.net/Content/HLS_MP4/Live/channel(universal_channel)/varia
 #EXTINF:-1 group-title="dish prueba",Canal Sony
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=896f730715176bb90484f8385512cba7:edef8ba979d64acea3c827dcd51d21ed
-https://dish.akamaized.net/Content/HLS_MP4/Live/channel(sony)/variant.m3u8
+https://dish.akamaized.net/Content/DASH/Live/channel(sony)/variant.mpd
 
 edef8ba979d64acea3c827dcd51d21ed
