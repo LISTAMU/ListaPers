@@ -10141,3 +10141,23 @@ https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
 https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8
 
 
+#EXTINF:-1 group-title="dish prueba",dreamworkshd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6c7a488a73c9c780eaea5765ad29a00:08ffa90ee936cbacb10a59bb66aed57d
+https://dish.akamaized.net/Content/DASH/Live/channel(dreamworkshd)/variant.mpd
+#EXTINF:-1 group-title="dish prueba",Azteca Uno HD
+https://dish.akamaized.net/Content/DASH/Live/channel(aztecaunohd)/variant.mpd
+#EXTINF:-1 group-title="dish prueba",MULTIMEDIOS TV HD
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(multimediosplus)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",Azteca 7 HD
+https://dish.akamaized.net/Content/DASH/Live/channel(azteca7hd)/variant.mpd
+#EXTINF:-1 group-title="dish prueba",ADN 40
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(adn40hd)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",Star Channel
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(start_channel)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",MVS TV (Dish)
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(mvshd)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",Universal Tv
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(universal_channel)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",Canal Sony
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(sony)/variant.m3u8
