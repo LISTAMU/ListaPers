@@ -210,7 +210,7 @@ https://stream.ontvmx.com/ontv/qm78kcuxC9bPJojWeO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoD-nk_bUkqCUrSam-j5qJHpPv0XAT5N6Myw&usqp=CAU" group-title="TV REGIONALES 🇲🇽➡️",SLP: Nueve TV San Luís Potosí (720p)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
 #EXTINF:-1 group-title="TV REGIONALES 🇲🇽➡️" tvg-logo="https://cc.org.mx/wp-content/uploads/2021/03/Canal7-570x570.png",Canal 7 SLP
-https://mvtvstream.com:444/live/6456eb2e56ab7/index.m3u8
+https://mvtvstream.com:444/live/68b9bf95c5c51/index.m3u8
 #EXTINF:-1 tvg-logo="https://srtvnl.com/wp-content/uploads/2023/10/Logo_Canal28_2020_png.png" group-title="TV REGIONALES 🇲🇽➡️",Canal 28
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 group-title="TV REGIONALES 🇲🇽➡️" tvg-logo="  ",MULTIMEDIOS MTY
@@ -10141,40 +10141,130 @@ https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
 https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8
 
 
-#EXTINF:-1 group-title="dish prueba",Nick Jr
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6678b21d11148fc9604268ddbe008d72:8ba320049c30a2df809a90679c49b63d
-https://dish.akamaized.net/Content/DASH/Live/channel(nickjrhd)/variant.mpd
-#EXTINF:-1 group-title="dish prueba",Nickelodeon
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ec274831caa80e1ec173dbd5b0d5e83:cc5fb77171900013b60e4ef49da9f1ac
-https://dish.akamaized.net/Content/DASH/Live/channel(Nickelodeon)/variant.mpd
-#EXTINF:-1 group-title="dish prueba",dreamworkshd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6c7a488a73c9c780eaea5765ad29a00:08ffa90ee936cbacb10a59bb66aed57d
-https://dish.akamaized.net/Content/DASH/Live/channel(dreamworkshd)/variant.mpd
 #EXTINF:-1 group-title="dish prueba",Azteca Uno HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4b731bb5402a533d2fcacdd54363b79:ebc6a45a44642f2d6661c9470d09aced
 https://dish.akamaized.net/Content/DASH/Live/channel(aztecaunohd)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(aztecaunohd)/variant.m3u8
 #EXTINF:-1 group-title="dish prueba",MULTIMEDIOS TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0894aab2cb5ca9a88c6d7ebbc60dc304:32e9d80c5808be99f4dda6ff5c0aa506
+https://dish.akamaized.net/Content/DASH/Live/channel(multimediosplus)/variant.mpd
 https://dish.akamaized.net/Content/HLS_MP4/Live/channel(multimediosplus)/variant.m3u8
 #EXTINF:-1 group-title="dish prueba",Azteca 7 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5717e2dda7fc0fead005059e5536b6c:04243a2f2c5237efd969213e36f1ec77
 https://dish.akamaized.net/Content/DASH/Live/channel(azteca7hd)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(azteca7hd)/variant.m3u8
 #EXTINF:-1 group-title="dish prueba",ADN 40
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4502d2ed5f27637fa07cde1d9d01990:f029b1e0a115d01314692375790b22db
+https://dish.akamaized.net/Content/DASH/Live/channel(adn40hd)/variant.mpd
 https://dish.akamaized.net/Content/HLS_MP4/Live/channel(adn40hd)/variant.m3u8
 #EXTINF:-1 group-title="dish prueba",Star Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6de957e2c8090588b2cc3b4cfe0470f4:52d97d7f43b204d2379b43ee7d3a2a21
+https://dish.akamaized.net/Content/DASH/Live/channel(start_channel)/variant.mpd
 https://dish.akamaized.net/Content/HLS_MP4/Live/channel(start_channel)/variant.m3u8
 #EXTINF:-1 group-title="dish prueba",MVS TV (Dish)
-https://dish.akamaized.net/Content/HLS_MP4/Live/channel(mvshd)/variant.m3u8
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 group-title="dish prueba",Universal Tv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88cabfce565963d816be9ec08dccc29e:7912df72c3cb820a6a9026ef6aa71508
+https://dish.akamaized.net/Content/DASH/Live/channel(universal_channel)/variant.mpd
 https://dish.akamaized.net/Content/HLS_MP4/Live/channel(universal_channel)/variant.m3u8
 #EXTINF:-1 group-title="dish prueba",Canal Sony
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=896f730715176bb90484f8385512cba7:edef8ba979d64acea3c827dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key=896f730715176bb90484f8385512cba7:7372951666a6653c2dbff9f2646c1c5d
 https://dish.akamaized.net/Content/DASH/Live/channel(sony)/variant.mpd
-
-#EXTINF:-1 group-title="dish prueba",Animal Planet HD
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(sony)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",Warner Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d159d22935a366a6989d352f231edad9:36caf348e0f7a4d4a6cdc577368387c2
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ANIMAL_PLANET_HD)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=79dc87836d93d0fb7c1bb10e301bab82:8b0e2a78cad3b2fe84b116adb0a9d9ef
+https://dish.akamaized.net/Content/DASH/Live/channel(warner_channel)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(warner_channel)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",AMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6772d26ccb1dee07b3b8703520286e8e:e3836e151d5ff729fe237f29605f039b
+https://dish.akamaized.net/Content/DASH/Live/channel(amc)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(amc)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",AXN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a100e0455dec1d27ea68eac2444a057:518d58d1998e35f07ae8aa7a7716613a
+https://dish.akamaized.net/Content/DASH/Live/channel(axnhd)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(axnhd)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",FX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef5157845628b5f3f07a40d2c6e851bc:0f416467760f72e2269abfbab2e3c564
+https://dish.akamaized.net/Content/DASH/Live/channel(fx)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(fx)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",Space
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6441ec9b4f7ddfbc4cac8801f4df9df:676229a75fdbc1a6b5f4a50c383490d9
+https://dish.akamaized.net/Content/DASH/Live/channel(space)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(space)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",USA Network HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39773b0d7b389430776142a2fa613ad9:bce74121a4884ec7d2ed9dd96442a775
+https://dish.akamaized.net/Content/DASH/Live/channel(syfy)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(usamexico)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",Adult Swim
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://dish.akamaized.net/Content/DASH/Live/channel(adultswim)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(adultswim)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",Lifetime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c17e69d6e92861fc2ca18df9c23c9c6:09e1bda6f1a7edeb9fb9f40f54f84be8
+https://dish.akamaized.net/Content/DASH/Live/channel(lifetimehd)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(lifetimehd)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",A&E HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5009add9e5b2cd627ac6ef8aa6db9123:3448834b1b496ed26e9727983c080844
+https://dish.akamaized.net/Content/DASH/Live/channel(aehd)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(aehd)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",DHE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=103cc11d061c3bb8aff8dbafbfc5a5a1:e42eb93eb51e8ea78828ccfbb31f4d60
+https://dish.akamaized.net/Content/DASH/Live/channel(dnehd)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(dnehd)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",TNT Series HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af697afe95d1a333a845aee5ba676946:c57bdecf3169b78e51865403c6e723bd
+https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(tntseries)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",A3 series HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f41eb0f3367804d8fc48dec22c2c7d68:42983f2821aba0d2d17afc373a3c3dab
+https://dish.akamaized.net/Content/DASH/Live/channel(a3series)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(a3series)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",Star TVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=28c5d535d08eab85a95f742c6305dcda:a7ffee630eeb09c7310852fd9d3b4a1e
+https://dish.akamaized.net/Content/DASH/Live/channel(startvhd)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(startvhd)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",Corazón
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d9ad184f8be4d6ed11ca4ee1ad11488:f0002b622065b6c1c4777d05fa859e99
+https://dish.akamaized.net/Content/DASH/Live/channel(aztecacorazon)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(aztecacorazon)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",Telemundo HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37c93f4babaaabc0da1d8b24828c3ff7:88e2ac75ce14cd5fbfb79083f37107dd
+https://dish.akamaized.net/Content/DASH/Live/channel(telemundohd)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(telemundohd)/variant.m3u8
+#EXTINF:-1 group-title="dish prueba",TNT Novelas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdee0f86736487e4d0137d46eb7dc0fb:1751603a6aca9ffb044a4b60efd68fd1
+https://dish.akamaized.net/Content/DASH/Live/channel(tntnovelashd)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(tntnovelashd)/variant.m3u8
+
+#EXTINF:-1 group-title="dish prueba",Bandamax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=D014B4C7F22D490F56E2D7D3FE125C15:9A04F07998404286AB92E65BE0885F95
+https://live2-ott.izzigo.tv/12/out/u/dash/BANDAMAX-HD/default.mpd
+#EXTINF:-1 group-title="dish prueba",Bandamax m3u8
+https://live1-ott.izzigo.tv/12/out/u/hls/BANDAMAX-HD/default.m3u8
+
 
 
