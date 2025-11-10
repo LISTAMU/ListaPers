@@ -10398,7 +10398,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(83640aad-3943-f226-67b6-940
 https://dish.akamaized.net/Content/HLS_MP4/Live/channel(83640aad-3943-f226-67b6-94086f915fd5)/variant.m3u8
 #EXTINF:-1 group-title="dish prueba",La Mejor tv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8ee9edbc1479b4f3756da7d54d23dce:d46ecb2b-d1ef-48e7-a6e8-7862d49325c9
+#KODIPROP:inputstream.adaptive.license_key=c8ee9edbc1479b4f3756da7d54d23dce:f3de3e4c73b643aea195267ae67c2f4b
 https://ses-prod-ad-mm-trafficmanager-01.vos360.video/variant/v1/ses_dish_lamejortv/Channel/lamejortv/DASHX/manifest.mpd
 #EXTINF:-1 group-title="dish prueba",EXA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
