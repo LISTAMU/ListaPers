@@ -9716,14 +9716,8 @@ https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
 #EXTINF:-1 channel-id="680bdaf54d7cf165c705f91e-mx" tvg-id="680bdaf54d7cf165c705f91e" tvg-chno="585" tvg-name="Zona Investigación TV" tvg-logo="https://images.pluto.tv/channels/680bdaf54d7cf165c705f91e/colorLogoPNG_1749054649625.png" group-title="Pluto TV Mexico", Zona Investigación TV
 https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8
 
-
-
-EXTINF:-1 tvg-id="99951459" tvg-name="Telemundo Deportes Ahora" tvg-logo="https://image.xumo.com/v1/channels/channel/99951459/168x168.png?type=color_onBlack" group-title="Xumo",Telemundo Deportes Ahora
-https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_web_telemundodeportesahora_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=f5ae4866-ed1e-46a9-9f6c-62f8fdfaa91b&ads._fw_vcid2=512116:f5ae4866-ed1e-46a9-9f6c-62f8fdfaa91b&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=es&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4281&ads.xumo_contentName=TelemundoDeportesAhora&ads.xumo_providerId=4281&ads.xumo_providerName=TelemundoDeportesAhora&ads.channelId=99951459&ads._fw_ifa_type=
-
-
-
-
+#EXTINF:-1 tvg-id="99951459" tvg-name="Telemundo Deportes Ahora" tvg-logo="https://image.xumo.com/v1/channels/channel/99951459/168x168.png?type=color_onBlack" group-title="Xumo",Telemundo Deportes Ahora
+https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459
 
 #EXTINF:-1 group-title="http://38.44.109.41:8003",A3Cine
 http://38.44.109.41:8003/play/a01k/index.m3u8
