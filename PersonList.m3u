@@ -181,6 +181,7 @@ https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV UNAM.mx" tvg-name="TV UNAM" tvg-logo="https://i.imgur.com/OxxROZI.png" group-title="🇲🇽Canales Comunes Mx➡️",TV Unam
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
+https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1835590178_DVR.m3u8
 #EXTINF:-1   tvg-id="CANAL CATORCE.mx" tvg-logo="https://www.canalcatorce.tv/descargas/logo_descargas.jpg" group-title="🇲🇽Canales Comunes Mx➡️",14
 https://d2httio3gowh9r.cloudfront.net/canal14/canal14/playlist.m3u8
 #EXTINF:-1   tvg-id="CANAL CATORCE.mx" tvg-logo="https://www.canalcatorce.tv/descargas/logo_descargas.jpg" group-title="🇲🇽Canales Comunes Mx➡️",14
@@ -6604,34 +6605,91 @@ https://tvgolat.org:8443/Luiscarpio/914300/197315.ts
 https://tvgolat.org:8443/Luiscarpio/914300/259084.ts
 
 
-
-#EXTINF:-1 tvg-id="AZTECAUNO.mx"tvg-name="AZTECAUNO"group-title="Nexgen",AZTECA 7
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",AZTECA 7
 https://tx1.nexgen.bz:4000/AZTECA7_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="AZTECAUNO.mx"tvg-name="AZTECAUNO"group-title="Nexgen",ESTRELLAS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",LAS ESTRELLAS
 https://tx5.nexgen.bz:4000/ESTRELLAS/playlist.m3u8
-#EXTINF:-1 tvg-id="AZTECAUNO.mx"tvg-name="AZTECAUNO"group-title="Nexgen",CINEMAX
-https://tx4.nexgen.bz:4000/CINEMAX/playlist.m3u8
-#EXTINF:-1 tvg-id="AZTECAUNO.mx"tvg-name="AZTECAUNO"group-title="Nexgen",TELEMUNDO
-https://tx4.nexgen.bz:4000/TELEMUNDO/playlist.m3u8
-#EXTINF:-1 tvg-id="AZTECAUNO.mx"tvg-name="AZTECAUNO"group-title="Nexgen",DE PELICULA
-https://tx5.nexgen.bz:4000/DEPELICULA/playlist.m3u8
-#EXTINF:-1 tvg-id="AZTECAUNO.mx"tvg-name="AZTECAUNO"group-title="Nexgen",CARTOONITO
-https://tx1.nexgen.bz:4000/CARTOONITO/playlist.m3u8
-#EXTINF:-1 tvg-id="AZTECAUNO.mx"tvg-name="AZTECAUNO"group-title="Nexgen",CARTOON
-https://tx2.nexgen.bz:4000//CARTOON/index.m3u8
-#EXTINF:-1 tvg-id="AZTECAUNO.mx"tvg-name="AZTECAUNO"group-title="Nexgen",Disney
-https://tx4.nexgen.bz:4000//DISNEY/index.m3u8
-#EXTINF:-1 tvg-id="AZTECAUNO.mx"tvg-name="AZTECAUNO"group-title="Nexgen",AXN
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",AXN
 https://tx4.nexgen.bz:4000/AXN/playlist.m3u8
-#EXTINF:-1 tvg-id="AZTECAUNO.mx"tvg-name="AZTECAUNO"group-title="Nexgen",FX
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",TNT
+https://tx4.nexgen.bz:4000/TNT/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",SPACE
+https://tx5.nexgen.bz:4000/SPACE/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",CINEMAX
+https://tx4.nexgen.bz:4000/CINEMAX/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",FX
 https://tx3.nexgen.bz:4000/FX/playlist.m3u8
-#EXTINF:-1 tvg-id="AZTECAUNO.mx"tvg-name="AZTECAUNO"group-title="Nexgen",CINECANAL
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",CINECANAL
 https://tx4.nexgen.bz:4000/CINECANAL/playlist.m3u8
-#EXTINF:-1 tvg-id="AZTECAUNO.mx"tvg-name="AZTECAUNO"group-title="Nexgen",HTV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",TNT SERIES
+https://tx5.nexgen.bz:4000/TNT_SERIES/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",UNIVERSAL
+https://tx4.nexgen.bz:4000/UNIVERSAL/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",STUDIO UNIVERSAL
+https://tx4.nexgen.bz:4000/STUDIO_UNIVERSAL/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",DE PELICULA
+https://tx5.nexgen.bz:4000/DEPELICULA/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",WARNER BROS
+https://tx4.nexgen.bz:4000/WBTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",STARCHANNEL
+https://tx4.nexgen.bz:4000/STARCHANNEL/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",CANAL SONY
+https://tx4.nexgen.bz:4000/CANALSONY/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",SYFY
+https://tx4.nexgen.bz:4000/SYFY/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",DICSOVERY KIDS
+https://tx4.nexgen.bz:4000/DISCOVERY_KIDS/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",DISNEY JR 
+https://tx4.nexgen.bz:4000/DISNEY_JR/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",DISNEY
+https://tx4.nexgen.bz:4000/DISNEY/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",TLC
+https://tx3.nexgen.bz:4000/TLC/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",DISCOVERY
+https://tx3.nexgen.bz:4000/DISCOVERY/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",DISCOVERY ID
+https://tx3.nexgen.bz:4000/DISCOVERY_ID/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",DISCOVERY ID
+https://tx5.nexgen.bz:4000/DISCOVERY_ID/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",NATGEO
+https://tx1.nexgen.bz:4000/NAT_GEO/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",HISTORY
+https://tx4.nexgen.bz:4000/HISTORY/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",HISTORY 2
+https://tx4.nexgen.bz:4000/HISTORY2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",PASIONES
+https://tx2.nexgen.bz:4000/PASIONES/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",PASIONES
+https://tx5.nexgen.bz:4000/PASIONES/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",GALAVISION
+https://tx2.nexgen.bz:4000/GALAVISION/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",GALAVISION
+https://tx5.nexgen.bz:4000/GALAVISION/playlist.m3u8
+ #EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",BANDAMAX
+https://tx2.nexgen.bz:4000/BANDAMAX/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",HTV
 https://tx2.nexgen.bz:4000/HTV/playlist.m3u8
-#EXTINF:-1 tvg-id="AZTECAUNO.mx"tvg-name="AZTECAUNO"group-title="Nexgen",UNIMAS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",TUDN
+https://tx2.nexgen.bz:4000/TUDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",FOX DEPORTES
+https://tx4.nexgen.bz:4000/FOX_DEPORTES/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",BEIN EN ESPAÑOL
+https://tx4.nexgen.bz:4000/BEIN_ESPANOL/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen", CBS SPORTS
+https://tx3.nexgen.bz:4000/CBS_SPORTS/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",NBA
+https://tx2.nexgen.bz:4000/NBA/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",NBC UNIVERSO
+https://tx1.nexgen.bz:4000/NBC_UNIVERSO/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",TELEMUNDO
+https://tx4.nexgen.bz:4000/TELEMUNDO/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",TELEMUNDO INTERNACIONAL
+https://tx4.nexgen.bz:4000/TELEMUNDO_INT/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",CNN ESPAÑOL
+https://tx4.nexgen.bz:4000/CNN_ESPANOL/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",UNIMAS
 https://tx1.nexgen.bz:4000/UNIMAS/playlist.m3u8
-#EXTINF:-1 tvg-id="AZTECAUNO.mx"tvg-name="AZTECAUNO"group-title="Nexgen",UNIVISION
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Nexgen",UNIVISION
 https://tx4.nexgen.bz:4000/UNIVISION/playlist.m3u8
 #EXTINF:-1 tvg-id="AZTECAUNO.mx"tvg-name="AZTECAUNO"group-title="Nexgen",HBO 2
 https://streamer1.nexgen.bz/HBO2/index.m3u8
